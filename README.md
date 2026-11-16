@@ -1,4 +1,4 @@
 # Thực hành Git & GitHub
-- Họ tên: (điền họ tên của bạn)
+- Họ tên: Đỗ Ngọc Quân
 - MSSV: 1822020710
-- Lớp: (điền lớp của bạn)
+- Lớp: 22DTH3
