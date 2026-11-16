@@ -1,2 +1,4 @@
-# ThucHanhGit_1822020710
-# ThucHanhGit_1822020710
+# Thực hành Git & GitHub
+- Họ tên: (điền họ tên của bạn)
+- MSSV: 1822020710
+- Lớp: (điền lớp của bạn)
